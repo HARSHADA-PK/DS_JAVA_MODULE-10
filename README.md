@@ -2,6 +2,7 @@
 
 
 # Ex21 Count the Number of Nodes in the Left Subtree of a Binary Tree
+## DATE:24/08/2026
 ## AIM:
 To design and implement a java program that constructs a binary tree from given level order input and counts the number of nodes present in the left subtree of the root node
 
@@ -90,6 +91,7 @@ It correctly constructs the binary tree from level order input and counts the nu
 
 
 # Ex22 Searching for a Book ID in a Binary Search Tree (BST)
+## DATE:26/08/2026
 ## AIM:
 To design and implement java program that constructs a Binary Search Tree (BST) using given Book IDs and checks whether a specific Book ID exists in the BST.
 ## Algorithm
@@ -172,6 +174,7 @@ The program has been successfully implemented and executed.
 It constructs a Binary Search Tree from the given Book IDs and accurately determines whether a queried Book ID exists in the library system.
 
 # Ex23 Breadth-First Search (BFS) Traversal of a City Junction Map
+## DATE:26/08/2026
 ## AIM:
 To design and implement a java program to perform Breadth-First Search (BFS) traversal on a city’s junction map represented as a graph, and find all reachable locations from a given source junction.
 ## Algorithm
@@ -245,6 +248,7 @@ The program has been successfully implemented and executed.
 It performs Breadth-First Search (BFS) traversal on a city junction map and correctly lists all reachable locations from the given source node.
 
 # Ex24 Shortest Path and Reachability in a Heritage Town using BFS
+## DATE:28/08/2026
 ## AIM:
 To design and implement a java program that, given a map of attractions in a heritage town connected by walking paths, recommends:
 The shortest number of paths (minimum hops) from a starting attraction to a target attraction.
@@ -355,6 +359,7 @@ The shortest number of paths (minimum hops) between two attractions.
 The total number of reachable attractions from a given starting point using BFS traversal.
 
 # Ex25 Finding the Fastest Route to a Charging Station using Dijkstra’s Algorithm
+## DATE:28/08/2026
 ## AIM:
 To design and implement a java program that helps an electric vehicle (EV) find the shortest travel time from its current block to the nearest charging station using Dijkstra’s shortest path algorithm.
 ## Algorithm
